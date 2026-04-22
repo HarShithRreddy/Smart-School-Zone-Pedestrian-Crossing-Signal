@@ -100,8 +100,6 @@ The system operates in two modes:
 
 ## 🛠️ Demo
 
-![Demo](Demo.gif)
-
 Complete Demo mp4 attatched in this repo
 ---
 
