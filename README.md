@@ -100,7 +100,7 @@ The system operates in two modes:
 
 ## 🛠️ Demo
 
-Complete Demo mp4 attatched in this repo
+
 ---
 
 ## 📚 Concepts Applied (MPCA)
