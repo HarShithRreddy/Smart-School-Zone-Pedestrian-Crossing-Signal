@@ -101,6 +101,10 @@ The system operates in two modes:
 ## 🛠️ Demo
 
 
+
+https://github.com/user-attachments/assets/2ca8ba4f-90b6-4409-b540-089d4e5efd52
+
+
 ---
 
 ## 📚 Concepts Applied (MPCA)
